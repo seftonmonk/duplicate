@@ -1,0 +1,19 @@
+{
+  "name": "duplicate",
+  "version": "1.0.0",
+  "description": "A Node application to find duplicates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seftonmonk/duplicate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seftonmonk/duplicate/issues"
+  },
+  "homepage": "https://github.com/seftonmonk/duplicate#readme",
+}
